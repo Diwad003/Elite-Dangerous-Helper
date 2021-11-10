@@ -1,0 +1,14 @@
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\obj\Debug\netcoreapp3.1\Elite Dangerous Helper.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\obj\Debug\netcoreapp3.1\Elite Dangerous Helper.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\obj\Debug\netcoreapp3.1\Elite Dangerous Helper.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\bin\Debug\netcoreapp3.1\Elite Dangerous Helper.exe
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\bin\Debug\netcoreapp3.1\Elite Dangerous Helper.deps.json
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\bin\Debug\netcoreapp3.1\Elite Dangerous Helper.runtimeconfig.json
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\bin\Debug\netcoreapp3.1\Elite Dangerous Helper.runtimeconfig.dev.json
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\bin\Debug\netcoreapp3.1\Elite Dangerous Helper.dll
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\bin\Debug\netcoreapp3.1\Elite Dangerous Helper.pdb
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\obj\Debug\netcoreapp3.1\Elite Dangerous Helper.dll
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\obj\Debug\netcoreapp3.1\Elite Dangerous Helper.pdb
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\obj\Debug\netcoreapp3.1\Elite Dangerous Helper.genruntimeconfig.cache
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\obj\Debug\netcoreapp3.1\Elite Dangerous Helper.csproj.AssemblyReference.cache
+C:\Users\Dawid\source\repos\Elite Dangerous Helper\Elite Dangerous Helper\obj\Debug\netcoreapp3.1\Elite Dangerous Helper.GeneratedMSBuildEditorConfig.editorconfig
